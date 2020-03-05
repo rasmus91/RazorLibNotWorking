@@ -1,0 +1,2 @@
+/home/rasmus/Projekter/NET/RazorLibNotWorking/obj/Debug/netstandard2.0/RazorLibNotWorking.csprojAssemblyReference.cache
+/home/rasmus/Projekter/NET/RazorLibNotWorking/obj/Debug/netstandard2.0/RazorLibNotWorking.RazorComponent.input.cache
